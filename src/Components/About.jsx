@@ -1,3 +1,5 @@
+
+
 /**
  * About component
  *
@@ -59,7 +61,10 @@ const About = () => {
           margin: "3rem auto",
           textAlign: "center",
         }}
-      >
+      >\
+
+
+      
         <h2>About Myself</h2>
         <p className="large">{description}</p>
         <hr />
