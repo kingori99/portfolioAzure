@@ -60,7 +60,7 @@ This portfolio site project is filled with sample data so that you can immediate
 Your development environment is all set for you to start. Based on our [JavaScript Codespace Template (React)](https://github.com/microsoft/codespaces-teaching-template-js), here is what is already setup and ready for you to use:
 
 * Simple [React](https://reactjs.org/) application with components for each section of the portfolio site
-* [Parcel](https://parceljs.org/) in place to build your site when deploying
+* [Parcel](https://parceljs.org/) in place to build your site when deploying.
 * Code linting and formatting using [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) for code consistency.
 
 ### Create your portfolio
